@@ -1,0 +1,12 @@
+black
+white
+Hispanic
+Asian
+Indian 
+Jewish
+Christian
+Muslim
+Arab
+male
+female
+a person

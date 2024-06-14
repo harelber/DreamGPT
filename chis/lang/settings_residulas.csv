@@ -1,0 +1,11 @@
+Chi-square statistic: 318.82844248911465
+P-value: 2.3598589312057486e-43
+Degrees of freedom: 44
+
+Significant Residuals (Absolute value > 2):
+Row: Arabic, Column: Arab, Residual: 2.321221461598044
+Row: Arabic, Column: Muslim, Residual: 7.171371656006362
+Row: Hebrew, Column: Jewish, Residual: 8.10352342112582
+Row: Other, Column: Indian, Residual: 5.96334109999
+Row: Spanish, Column: Hispanic, Residual: 10.135409740718178
+Row: X, Column: Hispanic, Residual: -2.6806972696235136
