@@ -14,7 +14,7 @@ The files are organizes as follows:
 To obtain one, please consult:
 [API key help](https://help.openai.com/en/articles/4936850-where-do-i-find-my-openai-api-key)
 
-2. The **Data** folder holds that data we used. The results files hold the models we stoped analyzing after the Dream Generation Analysis.
+2. The **Data** folder holds that data we used. The **results** files hold the models we stoped analyzing after the Dream Generation Analysis (a simple analysis is in _eval_other_models.py_).
 The models_usable_data.csv holds that data we annotated and fully analyzed.
 
 3. The **chis** folder holds the chi-square analysis folder. The two subfolders hold the specific tests: **flower** for the genderized-flower test, and **lang** for the langauge-factor test.
